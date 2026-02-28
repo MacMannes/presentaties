@@ -14,15 +14,20 @@ theme:
 
 # Wat is MeshCore?
 
+## Algemeen
+
 - Off-Grid berichten platform
 - Gedecentraliseerd, geen internet nodig
 - Alle berichten zijn _versleuteld_
-  - Kanalen
-    - Public
-    - #grunn, #stad, #testnoord
-    - Privé Kanalen _(Private key nodig)_
-  - Direct Messaging
-    - Zender en ontvanger moeten elkaar in het adresboek hebben
+
+## Manieren om te communiceren
+
+- Kanalen
+  - Public
+  - #grunn, #stad, #testnoord
+  - Privé Kanalen _(Private key nodig)_
+- Direct Messaging
+  - Zender en ontvanger moeten elkaar in het adresboek hebben
 
 <!-- end_slide -->
 
@@ -38,6 +43,8 @@ theme:
 - Verschillende nodes maken samen een netwerk
   - Repeaters sturen alleen signalen door
   - Companions sturen direct naar elkaar of via repeaters
+
+#### TODO: Plaatje van netwerk
 
 <!-- end_slide -->
 
@@ -73,4 +80,61 @@ theme:
 
 <!-- reset_layout -->
 
-> Doordat bij MeshCore steeds minder berichten aankwamen, zijn de meeste Meshtastic gebruikers overgestapt naar MeshCore.
+> Doordat bij MeshCore steeds minder berichten aankwamen, zijn heel veel Meshtastic gebruikers overgestapt naar MeshCore.
+
+<!--end_slide -->
+
+# Welke Hardware?
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
+## Companions
+
+- **Heltec V3**
+  - vanaf € 22,75
+- **Heltec V4**
+  - heeft een ingebouwde LNA
+  - vanaf € 22,00
+- **Heltec T114**
+  - lager stroomverbruik
+  - vanaf € 34,50
+- LilyGo T-Echo
+  - e-ink display, lager stroomverbruik
+  - vanaf € 50,00
+- **LilyGo T-Deck Plus**
+  - geen telefoon nodig
+- vanaf € 95,00
+
+<!-- column: 1 -->
+
+#### TODO: Plaatje
+
+<!--end_slide -->
+
+# Welke Hardware?
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
+## Solar Repeaters
+
+- **Seeed Studio SenseCAP P1 Pro**
+  - De beste keuze voor outdoor MeshCore repeaters.
+  - Vanaf € 90
+- **WisMesh Solar Repeater**
+  - Compacte solar repeater van RAK Wireless
+  - Vanaf € 95
+- Zelfbouw
+  - XIAO nRF52840 & Wio-SX1262 Kit - € 12,00
+  - Action Solar Schijnwerper: € 18,95
+  - 6 dBi Antenne van kalkanstore.nl: € 27,50
+    - Totaal: € 58,45
+
+<!-- column: 1 -->
+
+#### TODO: Plaatje
+
+<!--end_slide -->
