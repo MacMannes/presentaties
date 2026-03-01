@@ -1,6 +1,10 @@
 ---
 theme:
   name: gruvbox-dark
+options:
+  implicit_slide_ends: false
+  h1_slide_titles: true
+  end_slide_shorthand: true
 ---
 
 <!-- alignment: center -->
@@ -10,9 +14,13 @@ theme:
 
 <span style="color: blue">Door: André Mathlener</span>
 
-<!-- end_slide -->
+---
 
 # Wat is MeshCore?
+
+<!-- column_layout: [2, 1] -->
+
+<!-- column: 0 -->
 
 ## Algemeen
 
@@ -29,9 +37,19 @@ theme:
 - Direct Messaging
   - Zender en ontvanger moeten elkaar in het adresboek hebben
 
-<!-- end_slide -->
+<!--column: 1 -->
+
+<!-- newlines: 3 -->
+
+![MeshCore](meshcore-mountains.jpg)
+
+---
 
 # Hoe werkt het?
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
 
 - Werkt met LoRa
   - In NL gebruiken we `EU/UK Narrow` preset
@@ -44,9 +62,11 @@ theme:
   - Repeaters sturen alleen signalen door
   - Companions sturen direct naar elkaar of via repeaters
 
-#### TODO: Plaatje van netwerk
+<!-- column: 1 -->
 
-<!-- end_slide -->
+![Netwerk](meshcore-netwerk.png)
+
+---
 
 # Verschil met Meshtastic
 
@@ -80,9 +100,10 @@ theme:
 
 <!-- reset_layout -->
 
-> Doordat bij MeshCore steeds minder berichten aankwamen, zijn heel veel Meshtastic gebruikers overgestapt naar MeshCore.
+> Doordat bij MeshCore steeds minder berichten aankwamen, zijn heel veel
+> Meshtastic gebruikers overgestapt naar MeshCore.
 
-<!--end_slide -->
+---
 
 # Welke Hardware?
 
@@ -105,13 +126,14 @@ theme:
   - vanaf € 50,00
 - **LilyGo T-Deck Plus**
   - geen telefoon nodig
-- vanaf € 95,00
+  - vanaf € 95,00
 
 <!-- column: 1 -->
 
-#### TODO: Plaatje
+![Heltec V4](heltec-v4.jpg)
+![t-echo](t-echo.jpg)
 
-<!--end_slide -->
+---
 
 # Welke Hardware?
 
@@ -137,4 +159,4 @@ theme:
 
 #### TODO: Plaatje
 
-<!--end_slide -->
+---
