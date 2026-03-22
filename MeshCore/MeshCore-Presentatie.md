@@ -26,6 +26,8 @@ options:
 
 - Off-Grid berichten platform
 - Gedecentraliseerd, geen internet nodig
+- _Kan_ gebruikt worden als nood-communicatie
+- Laagdrempelig, geen licentie nodig
 - Alle berichten zijn _versleuteld_
 
 ## Manieren om te communiceren
@@ -173,3 +175,5 @@ options:
 ![SenseCAP P1 Pro](seeed-sensecap-p1.png)
 
 ---
+
+# Is alles perfect?
