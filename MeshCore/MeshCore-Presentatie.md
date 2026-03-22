@@ -78,8 +78,6 @@ options:
 
 - Slimmere routering _(Path discovery)_
   - Zoekt en onthoudt de beste route voor elk bericht
-- Schaalbaar
-  - Werkt beter in grotere netwerken
 - Betere betrouwbaarheid
   - Berichten komen vaker aan
 - Companions _repeaten_ niet
@@ -91,8 +89,6 @@ options:
 
 - Flood routing
   - Berichten worden overal heen gestuurd
-- Schalingsproblemen
-  - Wordt langzaam bij veel gebruikers
 - Minder betrouwbaar
   - Berichten kunnen verdwalen in drukke netwerken
 - Cpmpanions _repeaten_ wel
@@ -141,6 +137,23 @@ options:
 
 <!-- column: 0 -->
 
+## Telefoon
+
+- Een iOS of Android telefoon met de MeshCore app is nodig om te communiceren met de Companions.
+- De telefoon communiceert via **Bluetooth** met de Companion.
+
+<!-- column: 1 -->
+
+![MeshCore App](meshcore-app.png)
+
+---
+
+# Welke Hardware?
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
 ## Solar Repeaters
 
 - **Seeed Studio SenseCAP P1 Pro**
@@ -157,6 +170,6 @@ options:
 
 <!-- column: 1 -->
 
-#### TODO: Plaatje
+![SenseCAP P1 Pro](seeed-sensecap-p1.png)
 
 ---
