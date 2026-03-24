@@ -159,6 +159,28 @@ options:
 
 <!-- column: 0 -->
 
+## Stand-alone Companions
+
+- **LilyGo T-Deck Plus**
+  - geen telefoon nodig
+  - vanaf € 95,00
+
+<!-- column: 1 -->
+
+```
+
+![Ripple](tdeck-ripple.jpg)
+![MeshOS](tdeck-meshos.jpg)
+```
+
+---
+
+# Welke Hardware?
+
+<!-- column_layout: [1, 1] -->
+
+<!-- column: 0 -->
+
 ## Solar Repeaters
 
 - **Seeed Studio SenseCAP P1 Pro**
@@ -236,3 +258,27 @@ options:
 - Spreading Factor 7 zou een goede verbetering kunnen zijn voor de Randstad
 - Hopelijk redden we het in het Noorden hier ook mee
 - Eventueel kunnen we _Bridges_ maken die berichten van SF7 naar SF8 kunnen doorsturen
+
+---
+
+# Tools: MeshCore Analyzer
+
+---
+
+# Tools: MC Radar
+
+---
+
+# Tools: MapMe.sh
+
+---
+
+# Leuke ervaringen: DX'en
+
+---
+
+# Leuke ervaringen: Aurora Borealis
+
+---
+
+# Leuke ervaringen: Vliegtuig
