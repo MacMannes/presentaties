@@ -26,15 +26,15 @@ options:
 
 - Off-Grid berichten platform
 - Gedecentraliseerd, geen internet nodig
-- _Kan_ gebruikt worden als nood-communicatie
 - Laagdrempelig, geen licentie nodig
 - Alle berichten zijn _versleuteld_
+- _Kan_ gebruikt worden als nood-communicatie
 
 ## Manieren om te communiceren
 
 - Kanalen
   - Public
-  - #grunn, #stad, #testnoord
+  - `#grunn`, `#stad`, `#testnoord`
   - Privé Kanalen _(Private key nodig)_
 - Direct Messaging
   - Zender en ontvanger moeten elkaar in het adresboek hebben
