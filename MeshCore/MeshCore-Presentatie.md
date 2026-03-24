@@ -38,6 +38,9 @@ options:
   - Privé Kanalen _(Private key nodig)_
 - Direct Messaging
   - Zender en ontvanger moeten elkaar in het adresboek hebben
+- Room Servers
+  - Berichten worden opgeslagen op een server
+  - Ontvangers kunnen berichten ophalen wanneer ze verbinding hebben
 
 <!--column: 1 -->
 
@@ -177,3 +180,59 @@ options:
 ---
 
 # Is alles perfect?
+
+<!-- pause -->
+
+## Nee
+
+<!-- pause -->
+
+### Huidige problemen
+
+- In het westen raakt het net overbelast
+  - Sommige repeaters sturen veel te vaak adverts
+  - Er zijn veel bots
+- In het Noorden zijn er grote afstanden te overbruggen
+- Direct Messages zijn niet altijd betrouwbaar
+- Soms hebben we verbinding met de rest van NL, maar vaak is het éénrichtingsverkeer
+
+<!-- pause -->
+
+### Toekomstige verbeteringen
+
+- Regio's
+  - nl, nl-gr, nl-fr, nl-dr, etc ...
+    - Gebruikers bepalen zelf in welke regio ze hun berichten willen zenden
+    - Beheerders van repeaters kunnen bepalen welke regio's ze willen ondersteunen
+- Andere instellingen
+  - Spreading Factor 7 voor snelle berichten
+- Nieuwe versie van het MeshCore protocol
+
+---
+
+# Spreading Factor test
+
+<!-- pause -->
+
+## Test 1: SF7
+
+- Was in de Randstad een verbetering
+  - Berichten kwamen sneller aan
+  - Meer ruimte op het net
+  - Bereik was iets kleiner
+- In het Noorden deden te weinig mensen mee,
+  - Leens was weer een eilandje geworden
+
+<!-- pause -->
+
+## Test 2: SF6
+
+- Verbindingen waren nog sneller, maar bereik was nog kleiner
+
+<!-- pause -->
+
+## Voorlopige conclusie
+
+- Spreading Factor 7 zou een goede verbetering kunnen zijn voor de Randstad
+- Hopelijk redden we het in het Noorden hier ook mee
+- Eventueel kunnen we _Bridges_ maken die berichten van SF7 naar SF8 kunnen doorsturen
