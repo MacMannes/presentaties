@@ -125,9 +125,6 @@ options:
 - LilyGo T-Echo
   - e-ink display, lager stroomverbruik
   - vanaf € 50,00
-- **LilyGo T-Deck Plus**
-  - geen telefoon nodig
-  - vanaf € 95,00
 
 <!-- column: 1 -->
 
@@ -160,6 +157,7 @@ options:
 - **LilyGo T-Deck Plus**
   - vanaf € 95,00
   - Geen telefoon nodig
+  - Ripple of MeshOS firmware
 
 <!-- column_layout: [1, 1] -->
 
@@ -364,3 +362,12 @@ options:
 # Leuke ervaringen: Vliegtuig
 
 ![contact 1](plane-contact-2.png)
+
+---
+
+<!-- alignment: center -->
+<!-- newlines: 8 -->
+
+![MeshCore](meshcore-logo.png)
+
+<span style="color: blue">Dank voor jullie aandacht</span>
