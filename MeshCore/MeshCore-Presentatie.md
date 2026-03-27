@@ -259,24 +259,108 @@ options:
 
 ---
 
-# Tools: MeshCore Analyzer
+# Tools: MeshCore Analyzer - Kanalen
+
+![Kanalen](analyzer-channels.png)
 
 ---
 
-# Tools: MC Radar
+# Tools: MeshCore Analyzer - Kaart
+
+![map](analyzer-map.png)
 
 ---
 
-# Tools: MapMe.sh
+# Tools: MeshCore Analyzer - Packet Details
+
+![packets](analyzer-packets.png)
+
+---
+
+# Tools: MC Radar - Statistieken
+
+![statistieken](mc-radar-stats.png)
+
+---
+
+# Tools: MC Radar - Kaart Netwerk
+
+![netwerk](mc-radar-map-network.png)
+
+---
+
+# Tools: MC Radar - Kaart Netwerk (Grunn)
+
+![netwerk grunn](mc-radar-map-network-grunn.png)
+
+---
+
+# Tools: MC Radar - Kaart Berichtenverkeer
+
+![Berichten](mc-radar-map-packet-flows.png)
+
+---
+
+# Tools: MC Radar - Node details Leens
+
+![Leens](mc-radar-node-details.png)
+
+---
+
+# Tools: MapMe.sh - Nederland
+
+![mapme.sh](mapmesh-nl.png)
+
+---
+
+# Tools: MapMe.sh - Grunn
+
+![mapme.sh](mapmesh-grunn.png)
 
 ---
 
 # Leuke ervaringen: DX'en
 
+![DX](meshcore-dx.png)
+
 ---
 
 # Leuke ervaringen: Aurora Borealis
 
+![Aurora](aurora-borealis.png)
+
 ---
 
 # Leuke ervaringen: Vliegtuig
+
+![vliegtuig](plane.jpg)
+
+---
+
+# Leuke ervaringen: Vliegtuig
+
+![radios](plane-radios.jpg)
+
+---
+
+# Leuke ervaringen: Vliegtuig
+
+![LoRa](plane-lora.jpg)
+
+---
+
+# Leuke ervaringen: Vliegtuig
+
+![FLightplan](plane-flightplan.png)
+
+---
+
+# Leuke ervaringen: Vliegtuig
+
+![contact 1](plane-contact-1.png)
+
+---
+
+# Leuke ervaringen: Vliegtuig
+
+![contact 1](plane-contact-2.png)
