@@ -155,23 +155,21 @@ options:
 
 # Welke Hardware?
 
+## Stand-alone Companions
+
+- **LilyGo T-Deck Plus**
+  - vanaf € 95,00
+  - Geen telefoon nodig
+
 <!-- column_layout: [1, 1] -->
 
 <!-- column: 0 -->
 
-## Stand-alone Companions
-
-- **LilyGo T-Deck Plus**
-  - geen telefoon nodig
-  - vanaf € 95,00
+![Ripple](tdeck-ripple.png)
 
 <!-- column: 1 -->
 
-```
-
-![Ripple](tdeck-ripple.jpg)
-![MeshOS](tdeck-meshos.jpg)
-```
+![MeshOS](tdeck-meshos.png)
 
 ---
 
