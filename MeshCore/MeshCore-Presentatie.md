@@ -259,61 +259,61 @@ options:
 
 # Tools: MeshCore Analyzer - Kanalen
 
-![Kanalen](analyzer-channels.png)
+![Kanalen](analyzer-channels.jpg)
 
 ---
 
 # Tools: MeshCore Analyzer - Kaart
 
-![map](analyzer-map.png)
+![map](analyzer-map.jpg)
 
 ---
 
 # Tools: MeshCore Analyzer - Packet Details
 
-![packets](analyzer-packets.png)
+![packets](analyzer-packets.jpg)
 
 ---
 
 # Tools: MC Radar - Statistieken
 
-![statistieken](mc-radar-stats.png)
+![statistieken](mc-radar-stats.jpg)
 
 ---
 
 # Tools: MC Radar - Kaart Netwerk
 
-![netwerk](mc-radar-map-network.png)
+![netwerk](mc-radar-map-network.jpg)
 
 ---
 
 # Tools: MC Radar - Kaart Netwerk (Grunn)
 
-![netwerk grunn](mc-radar-map-network-grunn.png)
+![netwerk grunn](mc-radar-map-network-grunn.jpg)
 
 ---
 
 # Tools: MC Radar - Kaart Berichtenverkeer
 
-![Berichten](mc-radar-map-packet-flows.png)
+![Berichten](mc-radar-map-packet-flows.jpg)
 
 ---
 
 # Tools: MC Radar - Node details Leens
 
-![Leens](mc-radar-node-details.png)
+![Leens](mc-radar-node-details.jpg)
 
 ---
 
 # Tools: MapMe.sh - Nederland
 
-![mapme.sh](mapmesh-nl.png)
+![mapme.sh](mapmesh-nl.jpg)
 
 ---
 
 # Tools: MapMe.sh - Grunn
 
-![mapme.sh](mapmesh-grunn.png)
+![mapme.sh](mapmesh-grunn.jpg)
 
 ---
 
@@ -325,7 +325,7 @@ options:
 
 # Leuke ervaringen: Aurora Borealis
 
-![Aurora](aurora-borealis.png)
+![Aurora](aurora-borealis.jpg)
 
 ---
 
