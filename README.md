@@ -1,3 +1,3 @@
 # Presentaties van André Mathlener
 
-- [MeshCore Veron A60 Hunsingo](/MeshCore/MeshCore-Presentatie.pdf) (2015-11-19)
+- [MeshCore Presentatie Veron A60 Hunsingo](/MeshCore/MeshCore-Presentatie.pdf) (27 maart 2026)
