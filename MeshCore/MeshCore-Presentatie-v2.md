@@ -65,7 +65,7 @@ options:
   - Na 9 mei 2026:
     - Frequency: **`869.618 MHz`**
     - Bandwidth: **`62.5 kHz`**
-    - Spreading Factor: **`7`** _(snelheid)_
+    - Spreading Factor: **`7`**
     - Coding Rate: **`5 of 8`**
 
 - Verschillende nodes maken samen een netwerk
