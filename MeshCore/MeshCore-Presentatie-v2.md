@@ -50,6 +50,40 @@ options:
 
 ---
 
+# MeshCore - The split
+
+## Zijn er opeens twee MeshCore's?
+
+![image:width:100%](meshcore-the-split.png)
+
+---
+
+# MeshCore - The split
+
+## Oorzaken
+
+- Onenigheid over het gebruik van AI
+- Andy Kirby vroeg een Trademark aan
+- Hierdoor ontstond er een splitsing
+
+## MeshCore.io team
+
+- Open Source firmware voor radio's
+- Android en iOS MeshCore app
+- Ripple firmware voor T-Deck e.a.
+
+## MeshCore.co.uk (Andy Kirby)
+
+- MeshOS firmware voor T-Deck ea.
+- MeshOS voor Android en iOS (beta)
+
+## Toekomst
+
+- De ontwikkeling van MeshCore.io gaat door
+- Media heeft het allemaal een beetje opgeblazen
+
+---
+
 # Hoe werkt het?
 
 <!-- column_layout: [1, 1] -->
@@ -248,6 +282,12 @@ options:
 
 ---
 
+# Regiocodes instellen - App
+
+![image:width:100%](app-region-config.png)
+
+---
+
 # Spreading Factor test (maart 2026)
 
 ## Test 1: SF7
@@ -275,6 +315,14 @@ options:
 
 ---
 
+# 9 mei 2026: Switch naar SF7
+
+![image:width:100%](the-switch-sf7.png)
+
+> Sommige verbindingen zijn weggevallen, maar het netwerk lijkt wel beter te presteren.
+
+---
+
 # Tools: MeshCore Analyzer - Kanalen
 
 ![image:width:100%](analyzer-channels.jpg)
@@ -290,6 +338,12 @@ options:
 # Tools: MeshCore Analyzer - Packet Details
 
 ![image:width:100%](analyzer-packets.jpg)
+
+---
+
+# Tools: MeshWiki Analyser - Kanalen
+
+![image:width:100%](meshwiki-analyser.png)
 
 ---
 
@@ -332,6 +386,12 @@ options:
 # Tools: MC Radar - Node details Leens
 
 ![image:width:100%](mc-radar-node-details.jpg)
+
+---
+
+# Tools: Cornmeister.nl live viewer
+
+![image:width:100%](cornmeister.png)
 
 ---
 
@@ -392,6 +452,12 @@ options:
 # Leuke ervaringen: Vliegtuig
 
 ![contact 1](plane-contact-2.png)
+
+---
+
+# Meer informatie: meshwiki.nl
+
+![image:width:100%](meshwiki.png)
 
 ---
 
