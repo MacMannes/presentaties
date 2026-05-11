@@ -221,21 +221,34 @@ options:
 
 <!-- pause -->
 
-### Toekomstige verbeteringen
+### Verbeteringen
 
-- Regio's
+- Regio's gebruiken
   - nl, nl-gr, nl-fr, nl-dr, nl-noord, etc ...
     - Gebruikers bepalen zelf in welke regio ze hun berichten willen zenden
     - Beheerders van repeaters kunnen bepalen welke regio's ze willen ondersteunen
+- Eén advert per 50 uur
 - Andere instellingen
   - Spreading Factor 7 voor snelle berichten
-- Nieuwe versie van het MeshCore protocol
+- Toekomst: Nieuwe versie van het MeshCore protocol
+
+---
+
+# Regiocodes instellen - Tool
+
+> <www.mesh-up.nl/tools/regiocodes-instellen>
+
+![Regio Config](regio-config.png)
+
+---
+
+# Regio GRQ - Groningen
+
+![Regio GRQ](regio-grq.png)
 
 ---
 
 # Spreading Factor test (maart 2026)
-
-<!-- pause -->
 
 ## Test 1: SF7
 
@@ -304,9 +317,9 @@ options:
 
 ---
 
-# Tools: MC Radar - Kaart Netwerk (9 mei 2026 / SF8 )
+# Tools: MC Radar - Kaart Berichtenverkeer (9 mei 2026 / SF8 )
 
-![netwerk noord](mc-radar-map-network-noord.png)
+![Berichten sf8](mc-radar-map-packet-flows-sf8.png)
 
 ---
 
