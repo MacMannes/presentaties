@@ -323,7 +323,7 @@ options:
 
 ---
 
-# Tools: MC Radar - Kaart Berichtenverkeer (9 mei 2026 / SF7 )
+# Tools: MC Radar - Kaart Berichtenverkeer (11 mei 2026 / SF7 )
 
 ![image:width:100%](mc-radar-map-packet-flows-sf7.png)
 
