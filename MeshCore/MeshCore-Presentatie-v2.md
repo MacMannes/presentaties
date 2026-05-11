@@ -46,7 +46,7 @@ options:
 
 <!-- newlines: 3 -->
 
-![MeshCore](meshcore-mountains.jpg)
+![image:width:100%](meshcore-mountains.jpg)
 
 ---
 
@@ -74,7 +74,7 @@ options:
 
 <!-- column: 1 -->
 
-![Netwerk](meshcore-netwerk.png)
+![image:width:100%](meshcore-netwerk.png)
 
 ---
 
@@ -133,8 +133,8 @@ options:
 
 <!-- column: 1 -->
 
-![Heltec V4](heltec-v4.jpg)
-![t-echo](t-echo.jpg)
+![image:width:100%](heltec-v4.jpg)
+![image:width:100%](t-echo.jpg)
 
 ---
 
@@ -151,7 +151,7 @@ options:
 
 <!-- column: 1 -->
 
-![MeshCore App](meshcore-app.png)
+![image:width:100%](meshcore-app.png)
 
 ---
 
@@ -168,11 +168,11 @@ options:
 
 <!-- column: 0 -->
 
-![Ripple](tdeck-ripple.png)
+![image:width:100%](tdeck-ripple.png)
 
 <!-- column: 1 -->
 
-![MeshOS](tdeck-meshos.png)
+![image:width:100%](tdeck-meshos.png)
 
 ---
 
@@ -198,7 +198,7 @@ options:
 
 <!-- column: 1 -->
 
-![SenseCAP P1 Pro](seeed-sensecap-p1.png)
+![image:width:100%](seeed-sensecap-p1.png)
 
 ---
 
@@ -210,7 +210,7 @@ options:
 
 <!-- pause -->
 
-### Huidige problemen
+### Problemen
 
 - In het westen raakt het net overbelast
   - Sommige repeaters sturen veel te vaak adverts
@@ -238,13 +238,13 @@ options:
 
 > <www.mesh-up.nl/tools/regiocodes-instellen>
 
-![Regio Config](regio-config.png)
+![image:width:100%](regio-config.png)
 
 ---
 
 # Regio GRQ - Groningen
 
-![Regio GRQ](regio-grq.png)
+![image:width:100%](regio-grq.png)
 
 ---
 
@@ -267,7 +267,7 @@ options:
 
 <!-- pause -->
 
-## Voorlopige conclusie
+## Conclusie
 
 - Spreading Factor 7 zou een goede verbetering kunnen zijn voor de Randstad
 - Hopelijk redden we het in het Noorden hier ook mee
@@ -277,73 +277,73 @@ options:
 
 # Tools: MeshCore Analyzer - Kanalen
 
-![Kanalen](analyzer-channels.jpg)
+![image:width:100%](analyzer-channels.jpg)
 
 ---
 
 # Tools: MeshCore Analyzer - Kaart
 
-![map](analyzer-map.jpg)
+![image:width:100%](analyzer-map.jpg)
 
 ---
 
 # Tools: MeshCore Analyzer - Packet Details
 
-![packets](analyzer-packets.jpg)
+![image:width:100%](analyzer-packets.jpg)
 
 ---
 
 # Tools: MC Radar - Statistieken
 
-![statistieken](mc-radar-stats.jpg)
+![image:width:100%](mc-radar-stats.jpg)
 
 ---
 
-# Tools: MC Radar - Kaart Netwerk
+# Tools: MC Radar - Kaart Netwerk (Nederland)
 
-![netwerk](mc-radar-map-network.jpg)
+![image:width:100%](mc-radar-map-network.jpg)
 
 ---
 
-# Tools: MC Radar - Kaart Netwerk (Grunn)
+# Tools: MC Radar - Kaart Netwerk (Groningen)
 
-![netwerk grunn](mc-radar-map-network-grunn.jpg)
+![image:width:100%](mc-radar-map-network-grunn.jpg)
 
 ---
 
 # Tools: MC Radar - Kaart Berichtenverkeer (maart 2026)
 
-![Berichten](mc-radar-map-packet-flows.jpg)
+![image:width:100%](mc-radar-map-packet-flows.jpg)
 
 ---
 
 # Tools: MC Radar - Kaart Berichtenverkeer (9 mei 2026 / SF8 )
 
-![Berichten sf8](mc-radar-map-packet-flows-sf8.png)
+![image:width:100%](mc-radar-map-packet-flows-sf8.png)
 
 ---
 
 # Tools: MC Radar - Node details Leens
 
-![Leens](mc-radar-node-details.jpg)
+![image:width:100%](mc-radar-node-details.jpg)
 
 ---
 
 # Tools: MapMe.sh - Nederland
 
-![mapme.sh](mapmesh-nl.jpg)
+![image:width:100%](mapmesh-nl.jpg)
 
 ---
 
 # Tools: MapMe.sh - Grunn
 
-![mapme.sh](mapmesh-grunn.jpg)
+![image:width:100%](mapmesh-grunn.jpg)
 
 ---
 
 # Leuke ervaringen: DX'en
 
-![DX](meshcore-dx.png)
+![image:width:100%](meshcore-dx.png)
 
 ---
 
