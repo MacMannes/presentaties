@@ -462,8 +462,14 @@ options:
 ---
 
 <!-- alignment: center -->
-<!-- newlines: 8 -->
+<!-- newlines: 4 -->
 
 ![MeshCore](meshcore-logo.png)
 
 <span style="color: blue">Dank voor jullie aandacht</span>
+
+<!-- newlines: 4 -->
+
+`https://github.com/MacMannes/presentaties`
+
+![qr](macmannes-qr-code.png)
