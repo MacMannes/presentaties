@@ -133,8 +133,8 @@ options:
 
 <!-- column: 1 -->
 
-![image:width:100%](heltec-v4.jpg)
-![image:width:100%](t-echo.jpg)
+![image:width:50%](heltec-v4.jpg)
+![image:width:50%](t-echo.jpg)
 
 ---
 
